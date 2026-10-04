@@ -54,7 +54,7 @@ export function LoginView({ users, onLoginSuccess }) {
           Sistem Presensi Sekolah
         </h1>
         <p className="text-xs text-slate-500 mt-1">
-          SMA Negeri 1 Teladan • Tahun Ajaran 2026/2027
+          Smk Guna Cipta 
         </p>
       </div>
 
